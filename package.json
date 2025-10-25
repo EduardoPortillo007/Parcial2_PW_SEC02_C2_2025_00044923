@@ -1,0 +1,23 @@
+{
+  "name": "parcial2_pw_sec02_c2_2025_00044923",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoPortillo007/Parcial2_PW_SEC02_C2_2025_00044923.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoPortillo007/Parcial2_PW_SEC02_C2_2025_00044923/issues"
+  },
+  "homepage": "https://github.com/EduardoPortillo007/Parcial2_PW_SEC02_C2_2025_00044923#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
